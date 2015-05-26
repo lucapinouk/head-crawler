@@ -1,0 +1,8 @@
+http://www.acard.com/
+smb://some_folder/
+http://www.acer.com/
+https://www.google.com/
+not a URL
+anotherLine
+
+http://www.activestate.com
